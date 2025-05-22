@@ -3,7 +3,7 @@
 
 The Official PyTorch implementation of [**LoRASuite: Efficient LoRA Adaptation Across Large Language Model Upgrades**](https://arxiv.org/abs/2505.13515).
 
-Authors: [Yanan Li](https://scholar.google.com/citations?user=fCk0tD8AAAAJ&hl=zh-CN) $^\dagger$, [Fanxu Meng](https://sites.google.com/view/yujia) $^\ddagger$, [Muhan Zhang](https://fxmeng.github.io/) $^\ddagger$, Shiai Zhu $^\nmid$, [Shangguang Wang](https://wangshangguang.github.io/) $^\dagger$, [Mengwei Xu](https://xumengwei.github.io/) $^\dagger$  
+Authors: [Yanan Li](https://scholar.google.com/citations?user=fCk0tD8AAAAJ&hl=zh-CN) $^\dagger$, [Fanxu Meng](https://fxmeng.github.io/) $^\ddagger$, [Muhan Zhang](https://muhanzhang.github.io/) $^\ddagger$, Shiai Zhu $^\nmid$, [Shangguang Wang](https://wangshangguang.github.io/) $^\dagger$, [Mengwei Xu](https://xumengwei.github.io/) $^\dagger$  
 $^\dagger$ Beijing University of Posts and Telecommunications, $^\ddagger$ Peking University, $^\nmid$ Unaffiliated
 
 ## Overview
