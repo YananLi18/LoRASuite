@@ -467,4 +467,3 @@ dependencies:
       - yarl==1.18.0
       - zipp==3.21.0
       - zstandard==0.23.0
-prefix: /home_nfs/haitao/anaconda3/envs/xft
