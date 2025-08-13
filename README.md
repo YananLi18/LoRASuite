@@ -68,10 +68,6 @@ bash evaluate.sh 0 MiniCPM-2B ./modelzoo/MiniCPM-2B-sft-fp32-llama-format/ ./tra
 - LLM-Adapters: https://github.com/AGI-Edgerunners/LLM-Adapters
 - DoRA: https://github.com/NVlabs/DoRA
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YananLi18/LoRASuite&type=Date)](https://star-history.com/#YananLi18/LoRASuite&Date)
-
 ## Citation
 
 Please cite our paper if it's helpful to your work!
