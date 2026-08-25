@@ -1,3 +1,5 @@
+
+
 # LoRASuite
 [![Arxiv](https://img.shields.io/badge/arXiv-2505.13515-B21A1B)](https://arxiv.org/abs/2505.13515)
 
@@ -17,6 +19,12 @@ You can create the environment from the environment.yml file:
 
 ```
 conda env create -f environment.yml
+```
+
+Then activate the environment:
+
+```
+conda activate xft
 ```
 
 
